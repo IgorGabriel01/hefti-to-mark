@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const AsideStyled = styled.aside`
     background-color: var(--third-color);
-    width: 50%;
+    width: 50vw;
     max-height: 100vh;
     padding: 2.5rem 0rem;
     display: flex;
@@ -19,7 +19,7 @@ export const HeadingAside = styled.h1`
     color: var(--second-color);
     font-family: "Roboto", sans-serif;
     text-align: center;
-    font-weight: 100;
+    font-weight: 280;
     font-size: 2.4rem;
     width: 65%;
 `
